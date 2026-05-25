@@ -1,0 +1,6 @@
+{
+  "name": "TRK Store",
+  "description": "متجر TRK لخدمات قراند 5 المحسنة على جهاز بلايستيشن 5 - شحن مهمة الغواصة وسيارات قراند المميزة",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
